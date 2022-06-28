@@ -4,4 +4,6 @@ Este apartado (directorio/folder) estará dedicado a subir algunos ejercicios co
 * Regresión Lineal Múltiple
 * Random Forest
 
+28 Jun 2022
+
 etc...
